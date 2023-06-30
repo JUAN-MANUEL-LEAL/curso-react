@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//JUAN-MANUEL-LEAL.github.io/curso-react/static/css/main.e46824fd.css",
+    "main.js": "/https//JUAN-MANUEL-LEAL.github.io/curso-react/static/js/main.374309ad.js",
+    "index.html": "/https//JUAN-MANUEL-LEAL.github.io/curso-react/index.html",
+    "static/media/delete.svg": "/https//JUAN-MANUEL-LEAL.github.io/curso-react/static/media/delete.d9c7e0eeb3f573572e1521b7b69ed33e.svg",
+    "static/media/check.svg": "/https//JUAN-MANUEL-LEAL.github.io/curso-react/static/media/check.af03c9a6a0411e40578874e6f00e807b.svg",
+    "main.e46824fd.css.map": "/https//JUAN-MANUEL-LEAL.github.io/curso-react/static/css/main.e46824fd.css.map",
+    "main.374309ad.js.map": "/https//JUAN-MANUEL-LEAL.github.io/curso-react/static/js/main.374309ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e46824fd.css",
+    "static/js/main.374309ad.js"
+  ]
+}
